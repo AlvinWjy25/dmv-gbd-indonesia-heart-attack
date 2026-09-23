@@ -1,0 +1,6 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,11,Indonesia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,765660.1071613453,876429.1764539125,647216.5439712779
+1,Deaths,11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2021,114956.63166266661,135332.13371374196,95169.21579361493
+1,Deaths,11,Indonesia,3,Both,22,All ages,1029,Total cancers,1,Number,2021,227000.7367448678,272926.00602656056,176307.8550174212
+1,Deaths,11,Indonesia,3,Both,22,All ages,526,Digestive diseases,1,Number,2021,140994.57945639463,167371.5584869283,115892.49469591535
+1,Deaths,11,Indonesia,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2021,61934.05466731459,73059.89270563645,50882.509928870495
